@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="PinView">
+        <!--2-->
+        <attr name="pinColor" format="color" />
+        <attr name="borderWidth" format="dimension" />
+        <attr name="currentPin" format="integer"/>
+
+    </declare-styleable>
+</resources>
